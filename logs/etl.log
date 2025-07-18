@@ -1,0 +1,27 @@
+2025-07-17 11:10:16,578 - INFO - ETL process started
+2025-07-17 11:10:17,493 - ERROR - An error occurred while retrieving token from XML response: AADSTS50055: The password is expired.
+2025-07-17 11:10:17,493 - ERROR - ETL failed: An error occurred while retrieving token from XML response: AADSTS50055: The password is expired.
+2025-07-17 11:21:19,350 - INFO - ETL process started
+2025-07-17 11:21:21,141 - ERROR - ETL failed: Object of type List is not JSON serializable
+2025-07-17 11:22:34,614 - INFO - ETL process started
+2025-07-17 11:22:36,203 - ERROR - ETL failed: Object of type List is not JSON serializable
+2025-07-17 11:26:24,788 - INFO - ETL process started
+2025-07-17 11:26:26,311 - INFO - Extraction complete
+2025-07-17 11:26:26,365 - INFO - Transformation complete
+2025-07-17 11:26:43,166 - ERROR - ETL failed: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+2025-07-17 11:29:05,989 - INFO - ETL process started
+2025-07-17 11:29:07,659 - INFO - Extraction complete
+2025-07-17 11:29:07,666 - INFO - Transformation complete
+2025-07-17 11:29:07,712 - ERROR - ETL failed: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456)")
+2025-07-17 11:35:45,345 - INFO - ETL process started
+2025-07-17 11:35:47,184 - INFO - Extraction complete
+2025-07-17 11:35:47,193 - INFO - Transformation complete
+2025-07-17 11:35:47,327 - ERROR - ETL failed: ("A TVP's rows must be Sequence objects.", 'HY000')
+2025-07-17 11:36:40,958 - INFO - ETL process started
+2025-07-17 11:36:42,959 - INFO - Extraction complete
+2025-07-17 11:36:42,973 - INFO - Transformation complete
+2025-07-17 11:36:43,085 - INFO - Data successfully loaded into SQL Server
+2025-07-18 12:02:19,140 - INFO - ETL process started
+2025-07-18 12:02:21,423 - INFO - Extraction complete
+2025-07-18 12:02:21,430 - INFO - Transformation complete
+2025-07-18 12:02:21,592 - INFO - Data successfully loaded into SQL Server

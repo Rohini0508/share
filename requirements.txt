@@ -1,0 +1,6 @@
+pandas
+pyodbc
+Office365-REST-Python-Client
+pymongo 
+pyodbc 
+office365-rest-python-client
